@@ -14,6 +14,7 @@ Neste primeiro contato, "profissional", contribuindo num projeto real, mostrou-m
 
     
 <div style="display: inline-block"><br>
+    
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -63,7 +64,6 @@ Desenvolvendo habilidades para :
 <div>
 Bora codar...
 
-    
 ![LeandroGit84's Stats](https://github-readme-stats.vercel.app/api?username=LeandroGit84&theme=bear&show_icons=true&hide_border=false&count_private=false)
 
 ![LeandroGit84's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroGit84&theme=bear&hide_border=false)
