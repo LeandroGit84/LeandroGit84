@@ -13,7 +13,7 @@ Neste primeiro contato, "profissional", contribuindo num projeto real, mostrou-m
 </div>
 
     
-<div style="display: flex"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -40,7 +40,7 @@ Neste primeiro contato, "profissional", contribuindo num projeto real, mostrou-m
 Sistema /Operacional usado:
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-<div>
+</div>
 
 <div>
 Plataformas:
