@@ -1,81 +1,117 @@
-## Bem-vindo(a) ao perfil do LeandroGit84 😁
-<div>
-Ola, Word! 
+# 👋 Olá, eu sou Leandro Santos
 
-Meu nome é Leandro da Silva Santos e atualmente retormei os estudos, e decidi ir pela Linguagem de Programação, principalmente com as tecnologias  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) , ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) e ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) , com foco em profissionalização FULLSTACK. 
+### Desenvolvedor Full Stack em formação | Java | Spring Boot | JavaScript
 
-Esta é uma profissão totamente diferente do qual eu sempre atuei, sendo vigilante patrimonial, mas estou feliz por ter iniciado esta jornada tão incrivél que é a tecnologia e suas linguagens. Ter decidido para este seguimento profissional foi um marco na minha vida profissional, agora sigo passo a passo a rotina de estudos, treinando e aprimorando todo o conhecimento adquirido, a prática condiciona-me fazer um código mais limpo e profissinal, sigo comprometido. 
+Bem-vindo ao meu perfil GitHub! 🚀
 
-Como desafio deste curso da Dio - 
-"Contribuindo em um Projeto Open Source no GitHub" - passo a passo me vejo preparado para os próximos desafios.
+Atualmente estou em transição de carreira para a área de tecnologia, construindo uma base sólida em desenvolvimento Full Stack.
 
-Neste primeiro contato, "profissional", contribuindo num projeto real, mostrou-me que é póssivel contribuir de forma prática, direta e remota em projetos futuros, e que estar preparado para as rápidas mudanças do mercado de tecnologia é importante quanto cada linha de código para estarem encadeadas e sem bugs. 
-</div>
+Após muitos anos atuando na área de segurança patrimonial, decidi iniciar uma nova jornada profissional através da programação. Desde então, venho me dedicando diariamente ao aprendizado, desenvolvimento de projetos e aperfeiçoamento contínuo das minhas habilidades técnicas.
 
-    
-<div style="display: inline-block"><br>
-    
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-               
-</div>
- 
-<br>
- 
-### Conecte-se comigo
+Acredito que a prática constante, a curiosidade e a disciplina são os pilares para escrever códigos mais limpos, organizados e alinhados às boas práticas do mercado.
 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/leandrodasilva2815/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandrosantos1984/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Cada projeto desenvolvido representa um passo importante na construção da carreira que escolhi seguir.
 
-<div>
-Sistema /Operacional usado:
+---
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-</div>
+## 🚀 Tecnologias em estudo
 
-<div>
-Plataformas:
+### Front-End
 
-![Vs Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroGit84)
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-          
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div>
-Desenvolvendo habilidades para : 
+### Back-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-</div
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<div>
-Bora codar...
+### Banco de Dados
 
-![LeandroGit84's Stats](https://github-readme-stats.vercel.app/api?username=LeandroGit84&theme=bear&show_icons=true&hide_border=false&count_private=false)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![LeandroGit84's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroGit84&theme=bear&hide_border=false)
+### Ferramentas
 
-![LeandroGit84's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGit84&theme=bear&show_icons=true&hide_border=false&layout=compact)
-</div>
-    
-<div>
-Desafio Open Source Proposto pela Dio:
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-[!Dio.me](https://www.dio.me/articles/dicas-documentacoes-e-ferramentas-para-devs)
+---
 
-https://digitalinnovationone.github.io/dio-lab-open-source/
+## 📚 Atualmente estudando
 
-</div>
+- Java
+- Spring Boot
+- APIs REST
+- Banco de Dados Relacionais
+- Git e GitHub
+- JavaScript
+- HTML5 e CSS3
+- Estruturas de Dados
+- Boas práticas de programação
+- Desenvolvimento Full Stack
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroGit84&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGit84&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeandroGit84&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Tecnologias que pretendo dominar
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosantos1984/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrodasilva2815/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroGit84)
+
+---
+
+## 🖥️ Ambiente de Desenvolvimento
+
+### Sistema Operacional
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### IDEs e Editores
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎯 Objetivo Profissional
+
+Conquistar minha primeira oportunidade como Desenvolvedor Java Full Stack, contribuindo em projetos reais, aprendendo continuamente e evoluindo junto a equipes e comunidades de tecnologia.
+
+Estou comprometido em transformar conhecimento em prática, desafios em aprendizado e aprendizado em resultados.
+
+---
+
+> "Grandes sistemas são construídos linha por linha. Grandes carreiras também."
