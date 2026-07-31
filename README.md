@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leandro Santos
 
-### Desenvolvedor Full Stack em formação | Java | Spring Boot | JavaScript
+### Desenvolvedor Full Stack em formação 
 
 Bem-vindo ao meu perfil GitHub! 🚀
 
